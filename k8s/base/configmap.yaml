@@ -6,7 +6,7 @@ data:
   STUDENT_NAME: "Otajon Burkhonov"
   GITHUB_USERNAME: "otajon99"
   GITHUB_REPO: "devsecops-portfolio-template"
-  BIO: "DevOps engineer building secure, automated infrastructure."
+  BIO: "Week 8 capstone — deployed via ArgoCD GitOps"
   VAULT_ADDR: "http://vault.default:8200"
   VAULT_SECRET_PATH: "secret/data/github-app"
   # LINKEDIN_URL: ""
