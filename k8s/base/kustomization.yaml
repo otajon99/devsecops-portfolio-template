@@ -9,5 +9,4 @@ resources:
 images:
 - name: ghcr.io/OWNER/devops-portfolio
   newName: ghcr.io/otajon99/devops-portfolio
-  newTag: sha-5d3914a
-#
+  newTag: sha-06c1568
