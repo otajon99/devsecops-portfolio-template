@@ -3,8 +3,8 @@ kind: ConfigMap
 metadata:
   name: portfolio-config
 data:
-  STUDENT_NAME: "Your Name"
-  GITHUB_USERNAME: "your-github-username"
+  STUDENT_NAME: "Otajon Burkhonov"
+  GITHUB_USERNAME: "otajon99"
   GITHUB_REPO: "devsecops-portfolio-template"
   BIO: "DevOps engineer building secure, automated infrastructure."
   VAULT_ADDR: "http://vault.default:8200"
